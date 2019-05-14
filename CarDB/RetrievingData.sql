@@ -1,4 +1,4 @@
-USE Hanks_Russo --Run this query first to prepare database with an SQL command
+USE Hanks --Run this query first to prepare database with an SQL command
 
 --Finding all Sedans
 SELECT * 
