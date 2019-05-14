@@ -1,5 +1,5 @@
-CREATE DATABASE Hanks_Russo
-USE Hanks_Russo
+CREATE DATABASE Hanks
+USE Hanks
 
 CREATE TABLE Region
 (	RegionID	CHAR(3)			NOT NULL,
