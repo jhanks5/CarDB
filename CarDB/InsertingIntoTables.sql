@@ -1,4 +1,4 @@
-USE Hanks_Russo
+USE Hanks
 ---Database keeps track of multiple car dealerships, their staff, customers, and inventory
 
 --RegionID, RegionZIP, RegionName
